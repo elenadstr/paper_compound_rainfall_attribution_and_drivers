@@ -6,9 +6,9 @@ This repository contains the Jupyter notebooks used in the analysis for the pape
 
 ## Requirements
 - Python 
-- Packages listed in `requirements.txt`
+- Packages and environment details listed in `requirements.txt`
 
 ## Structure
-- `01_data_preparation.ipynb`
-- `02_analysis.ipynb`
-- `03_results.ipynb`
+- 'beep-boop.ipynb`
+- 'more_fun_stuff.ipynb`
+- `i_want_to_go_outside.ipynb`
